@@ -1,2 +1,3 @@
 # DanielaRosasPUC
-repositoria com codigos e dados das aulas
+Repositorio com codigos e dados da Spint 1 - Aula 2
+Caso Centro Cirurgico 
